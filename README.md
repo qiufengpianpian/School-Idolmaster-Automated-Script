@@ -5,7 +5,7 @@
 因为是视觉识别，所以可以兼容模拟器投屏pc版等等，代价就是需要在运行脚本过程中保持游戏画面不能被遮挡。
 
 
-日本語​​
+
 プログラミング初心者で、独学歴わずか半年の非エンジニアですので、温かい目で見守ってくださいqwq
 このプロジェクトはPythonのOpenCV画像認識を基にしています。現在実装済みの機能：
 毎日の自動コイン回収
@@ -17,7 +17,7 @@
 画像認識技術を使用しているため、エミュレーターのPC版画面投影など幅広い環境に対応可能ですが、代わりにスクリプト実行中はゲーム画面が隠れない状態を維持する必要があります。
 
 
-​​English​​
+
 Total newbie here, self-taught in coding for just 6 months (non-CS background), please be kind qwq
 This project uses Python's OpenCV computer vision and currently implements:
 Daily automatic coin collection
